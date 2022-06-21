@@ -1,12 +1,10 @@
 
 # Pig Game
-
-Basic  DOM manipulation you will learn by doing this project.
-and is based on flowchart below.
+A person who gets 100 points or more Wins!
 
 
 
-## Flowchart
+## Logic
 
 ![App Screenshot](https://rezaghoreyshiweb.github.io/pig-game/pig-game-flowchart.png)
 
